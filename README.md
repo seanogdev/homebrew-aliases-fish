@@ -13,3 +13,7 @@ fisher install miralize/homebrew-aliases-fish
 ## Commands
 
 > TODO
+
+## License
+
+[MIT](https://github.com/miralize/homebrew-aliases-fish/blob/main/LICENSE)
