@@ -1,6 +1,6 @@
 # homebrew-aliases-fish
 
-⚡️ Some useful shortcuts I found that missed when migrating to fish from zsh
+⚡️ Some useful shortcuts that I missed when migrating from `zsh` to `fish`
 
 Taken from [oh-my-zsh `brew` plugin](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/brew/brew.plugin.zsh)
 
