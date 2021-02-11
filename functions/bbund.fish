@@ -1,3 +1,3 @@
-function bbund --description "Create a backup of the installed brews to a Brewfile"
+function bbund --description "brew bundle dump"
     brew bundle dump
 end

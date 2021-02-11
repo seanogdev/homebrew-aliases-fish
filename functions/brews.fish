@@ -1,3 +1,3 @@
-function brews --description "A list of the user-installed brews"
+function brews --description "brew list -1"
     brew list -1
 end

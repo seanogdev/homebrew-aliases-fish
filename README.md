@@ -14,7 +14,17 @@ fisher install miralize/homebrew-aliases-fish
 
 ## Commands
 
-> TODO
+| Alias    | Command(s)                            |
+| -------- | ------------------------------------- |
+| `brewp`  | `brew pin`                            |
+| `brews`  | `brew list -1`                        |
+| `brewsp` | `brew list --pinned`                  |
+| `bubo`   | `brew update && brew outdated`        |
+| `bubc`   | `brew upgrade && brew cleanup`        |
+| `bubu`   | `bubo && bubc`                        |
+| `buf`    | `brew upgrade --formula`              |
+| `bcubo`  | `brew update && brew outdated --cask` |
+| `bcubc`  | `brew upgrade --cask && brew cleanup` |
 
 ## License
 

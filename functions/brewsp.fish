@@ -1,3 +1,3 @@
-function brewsp --description "A list of pinned brews"
-    brew list -1
+function brewsp --description "brew list --pinned"
+    brew list --pinned
 end

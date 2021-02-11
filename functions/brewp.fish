@@ -1,3 +1,3 @@
-function brewp --description "Pin a brew"
+function brewp --description "brew pin"
     brew pin
 end
