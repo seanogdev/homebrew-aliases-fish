@@ -6,6 +6,8 @@ Taken from [oh-my-zsh `brew` plugin](https://github.com/ohmyzsh/ohmyzsh/blob/mas
 
 ## Install
 
+Install with [Fisher](https://github.com/jorgebucaran/fisher):
+
 ```sh
 fisher install miralize/homebrew-aliases-fish
 ```
